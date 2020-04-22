@@ -1,0 +1,54 @@
+body {
+
+  background-color: #faf2e4;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 20% round;
+
+  }
+h1 {
+  font-family: "Marko One", Georgia, serif; 
+  font-size: 1.5em; 
+  font: bold 1.5em "Marko One", Georgia, serif; color:olive;
+  text-shadow: .05em .05em .1em lightslategray;
+  text-align: center;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 20% round;
+}
+
+
+div.body{
+
+  margin: 10em;
+  background-color:#495e7e;
+}
+
+h2 {
+  padding-left: 2em;
+  color: black;
+  font-size: 1em;
+  font-family: 'Roboto Mono', monospace;
+}
+h3 {
+  padding-left: 2em;
+  color: black;
+  font-size: 0.95em;
+  font-family: 'Roboto Mono', monospace;
+}
+p.review{
+  font-Size: 0.9em;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 20% round;
+}
+ul{
+  padding-left: 8em;
+  font-size: 0.80em;
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+}
+p{
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
