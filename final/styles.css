@@ -19,7 +19,7 @@ header {
 
 #films{
   color: #333333;
-  background:  url(films.jpg) no-repeat center center;
+  background:  url(films.JPG) no-repeat center center;
   background-size: cover; 
   text-align: center;
   height: 100em;
@@ -28,7 +28,7 @@ header {
 
 #films2{
   color: #333333;
-  background:  url(films2.jpg) no-repeat center center;
+  background:  url(films2.JPG) no-repeat center center;
   background-size: cover; 
   text-align: center;
   height: 100em;
@@ -36,14 +36,14 @@ header {
 
 #poster{
   color: #333333;
-  background:  url(poster.jpg) no-repeat center center;
+  background:  url(poster.JPG) no-repeat center center;
   background-size: cover; 
   text-align: center;
   height: 75em;
 }
 #poster2{
   color: #333333;
-  background:  url(poster.jpg) no-repeat center center;
+  background:  url(poster.JPG) no-repeat center center;
   background-size: cover; 
   text-align: center;
   height: 75em;
